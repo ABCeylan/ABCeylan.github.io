@@ -1,16 +1,14 @@
 ---
 layout: default
-title: "fahnu"
+title: "ABCeylan"
 ---
 
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
+
   
 
-# Hello!
+# Hello World!
 <div>
-  I am Fahri, a passionate newbie game developer who loves to develop games and build game mechanics. You can reach me at <a href="eskicifahri@gmail.com">eskicifahri@gmail.com</a>
+   I started my university life as an Electrical and Electronics Engineering student, and as a result of analyzing my skills and interests more accurately, I go on my way as a Computer Engineering student. My aim is to take firm steps in my career with the experiences I have gained and to take part in meaningful works. I am new to game develo You can reach me at <a href="eskicifahri@gmail.com">eskicifahri@gmail.com</a>
   <br>
   <br>
   <br>
