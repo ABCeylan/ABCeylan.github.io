@@ -95,33 +95,7 @@ At the end of the project, I learned the following well.
 
 
 ---
-## Flappy Bird
-#### My Project
-![tbs](https://user-images.githubusercontent.com/59933424/156930746-eddc6aea-3f46-4420-b7bf-faa592387ae7.jpg)  
-  
-My second project during my internship program was turn based strategy game. This time, my main goal was understanding multiplayer game systems in UE4. I also learned how to set up a dedicated server for the game I developed.  
 
-```markdown
-- Different troop and building types
-- Turn based system
-- Grid based map
-- Path finding for troops
-- Fog of war
-- Details panel for every interactable object
-```
-
-At the end of the project, I learned this following concepts.  
-
-```markdown
-- How things work in a multiplayer game
-- Server-client relation
-- Construction script
-- More optimization
-- Building dedicated server
-```
-  <br>
-  <br>
-  <br>
   
 
 
