@@ -20,7 +20,7 @@ title: "ABCeylan"
 <div>
   I started my university life as an Electrical and Electronics Engineering student, and as a result of analyzing my skills and interests more accurately, I go on my way as a Computer Engineering student. My aim is to take firm steps in my career with the experiences I have gained and to take part in meaningful works. 
   <br>
-Currently, I am interested in AR-VR world.
+
   Below you can see some of the projects I have done so far.
  
   <br>
