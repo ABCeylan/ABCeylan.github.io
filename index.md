@@ -51,11 +51,13 @@ This was my first game. We started this project with my friend. I learned so muc
 - Sound Manager
 - Level Manager
 - HUD
+- 
 ```
 
 At the end of the project, I learned the following well.  
 
 ```markdown
+- Unity Editor
 - Using OOP in Unity3D
 - LayerMask
 - 
@@ -81,9 +83,7 @@ At the end of the project, I learned the following well.
 ## Tower Defense Game
 #### My Project
 <img src="https://user-images.githubusercontent.com/81684850/158016164-512a0a90-dd57-4523-a0ac-b2ac11c1f3c5.png" width="640" height="360">
-  ![Screenshot (103)](https://user-images.githubusercontent.com/81684850/158018066-d2a88f5c-76b4-4066-91dd-811b7ddf6131.png)
-![Screenshot (104)](https://user-images.githubusercontent.com/81684850/158018071-6f47f477-d149-4c8e-a27f-8754a7254889.png)
-![Screenshot (105)](https://user-images.githubusercontent.com/81684850/158018078-473f2c9d-d343-4844-9c5a-1e1d6cbee524.png)![Screenshot (107)](https://user-images.githubusercontent.com/81684850/158018082-4f048680-6086-4ae1-a067-6644084367df.png)
+  
 
 
 I started this project to learn about Unity3D. I have used Unity free assets. Below there are the systems that I implemented. 
