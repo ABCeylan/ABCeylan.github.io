@@ -62,10 +62,10 @@ At the end of the project, I learned the following well.
 - LayerMask
 - 
 ```
-<img style="border:1px solid black;" src="https://user-images.githubusercontent.com/81684850/158018151-fc715d94-7e6d-4088-bd67-71261181ebf6.png" width="640" height="360">
+<img style="border:1px solid black;" src="https://user-images.githubusercontent.com/81684850/158018151-fc715d94-7e6d-4088-bd67-71261181ebf6.png" width="640" height="360"/>
 <br>
 <br>
-<img style="border:1px solid black;" src="https://user-images.githubusercontent.com/81684850/158018066-d2a88f5c-76b4-4066-91dd-811b7ddf6131.png" width="640" height="360">
+<img style="border:1px solid black;" src="https://user-images.githubusercontent.com/81684850/158018066-d2a88f5c-76b4-4066-91dd-811b7ddf6131.png" width="640" height="360"/>
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/81684850/158018071-6f47f477-d149-4c8e-a27f-8754a7254889.png" width="640" height="360" style="border:1px solid black;">
