@@ -54,7 +54,7 @@ This was my first game. We started this project with my <a href="https://fahnucc
 - 
 ```
 
-At the end of the project, I learned the following well.  
+I learned the following concepts.  
 
 ```markdown
 - Unity Editor
