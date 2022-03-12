@@ -28,15 +28,15 @@ Currently, I am interested in AR-VR world.
 </div>
 
 ---
-## 2D Comic Type Platformer Game
+## 2D Comic Type Platformer Game (Controller)
 #### Freelance
 -photo-  
 
 
 ---
-## FPS Game Project
-#### Internship
-![fps1](https://user-images.githubusercontent.com/59933424/156929599-9acdedf4-84ef-4ea8-bb13-3d4b240a256c.png)  
+## Tower Defense Game
+#### My Project
+![Screenshot (100)](https://user-images.githubusercontent.com/81684850/158016164-512a0a90-dd57-4523-a0ac-b2ac11c1f3c5.png)
   
 My very first non-clone game project. I have developed this using Unreal Engine 4 Blueprint system during my internship program. My main goals were understanding UE4 basics and game development process. I have implemented various mechanics that were asked from me and some additional ones that I designed.  
 
@@ -74,8 +74,8 @@ At the end of the project, I learned the following well.
 
 
 ---
-## Multiplayer Turn Based Strategy Game Project
-#### Internship
+## Flappy Bird
+#### My Project
 ![tbs](https://user-images.githubusercontent.com/59933424/156930746-eddc6aea-3f46-4420-b7bf-faa592387ae7.jpg)  
   
 My second project during my internship program was turn based strategy game. This time, my main goal was understanding multiplayer game systems in UE4. I also learned how to set up a dedicated server for the game I developed.  
