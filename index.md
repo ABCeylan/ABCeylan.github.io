@@ -42,25 +42,25 @@ This was my first game. We started this project with my <a href="https://fahnucc
 - Enemy Behaviour
 - Teleport 
 - I/O system
-- Animation
 - Interaction
 - Dialogue system
 - Map
-- Canvas UI
 - Menu
 - Sound Manager
 - Level Manager
 - HUD
-- 
+- Ladder Movement
 ```
 
 I learned the following concepts.  
 
 ```markdown
 - Unity Editor
-- Using OOP in Unity3D
-- LayerMask
-- 
+- Using OOP in Unity
+- Masking
+- Animations
+- Canvas UI
+- Prefabs
 ```
 <img src="https://user-images.githubusercontent.com/81684850/158018151-fc715d94-7e6d-4088-bd67-71261181ebf6.png" width="640" height="360" style="border:10px outset silver;">
 <br>
@@ -123,19 +123,22 @@ I started this project to learn about Unity3D. I have used Unity free assets. Be
 - Grid based map
 - Currency system
 - Upgrade system
-- Basic AI
-- Wave system (for agents to spawn)
-- Particle system
+- Agent Behaviour
+- Wave Manager
 - Camera Rig
-- Canvas UI
 - Sound Manager
+- Level Manager
 - Menu 
+- HUD
 ```
 
 I learned the following concepts.  
 
 ```markdown
-- How things work in Unity3D
+- Unity3D
+- Particles
+- NavMesh
+- Scriptable Objects
 ```
   <br>
   <br>
