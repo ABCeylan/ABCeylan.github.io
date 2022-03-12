@@ -8,7 +8,7 @@ title: "ABCeylan"
 
 # Hello World!
 <div>
-   I started my university life as an Electrical and Electronics Engineering student, and as a result of analyzing my skills and interests more accurately, I go on my way as a Computer Engineering student. My aim is to take firm steps in my career with the experiences I have gained and to take part in meaningful works. I am new to game develo You can reach me at <a href="eskicifahri@gmail.com">eskicifahri@gmail.com</a>
+   I am currently junior computer engineering student in Middle East Technical University in Ankara, Turkey. I have been improving myself about game development for about one year.
   <br>
   <br>
   <br>
@@ -18,9 +18,11 @@ title: "ABCeylan"
 ---
 ## About Me
 <div>
-I am currently 4th year computer engineering student in Middle East Technical University in Ankara, Turkey. I have been improving myself about game development for about one year. Below you can see some of the projects I have done so far.
+  I started my university life as an Electrical and Electronics Engineering student, and as a result of analyzing my skills and interests more accurately, I go on my way as a Computer Engineering student. My aim is to take firm steps in my career with the experiences I have gained and to take part in meaningful works. 
   <br>
-Nowadays, I am working on C++ ecosystem simulation project.
+Currently, I am interested in AR-VR world.
+  Below you can see some of the projects I have done so far.
+ 
   <br>
   <br>
 </div>
