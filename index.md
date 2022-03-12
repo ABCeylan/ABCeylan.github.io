@@ -62,6 +62,7 @@ I learned the following concepts.
 - Animations
 - Canvas UI
 - Prefabs
+- Sound
 ```
 <img src="https://user-images.githubusercontent.com/81684850/158018151-fc715d94-7e6d-4088-bd67-71261181ebf6.png" width="640" height="360" style="border:10px outset silver;">
 <br>
