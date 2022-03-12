@@ -8,7 +8,7 @@ title: "ABCeylan"
 
 # Hello World!
 <div>
-   I am currently junior computer engineering student in Middle East Technical University in Ankara, Turkey. I have been improving myself about game development for about one year.
+   I am currently junior computer engineering student in Middle East Technical University in Ankara, Turkey. I have been improving myself about game development for about 8 months.
   <br>
   <br>
   <br>
