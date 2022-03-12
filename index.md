@@ -34,7 +34,7 @@ title: "ABCeylan"
 #### Freelance
 <img src="https://user-images.githubusercontent.com/81684850/158016164-512a0a90-dd57-4523-a0ac-b2ac11c1f3c5.png" width="640" height="360" style="border:10px outset silver;">
 
-This was my first game. We started this project with my <a href="https://fahnucc.github.io/">friend</a> . I learned so much about Unity while creating the Controller game which is a 20 minutes game demo. We handled the whole Unity Editor and code side. Below there are the systems and mechanics that I implemented.  
+This was my first game. We started this project with my <a href="https://fahnucc.github.io/">friend</a> . I learned so much about Unity while creating the Controller game which is a 20 minutes game demo. We handled the whole Unity Editor and code side. Below there are the systems and mechanics that we implemented.  
 
 ```markdown
 - Game Development Pipeline
