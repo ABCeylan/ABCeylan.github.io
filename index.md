@@ -50,7 +50,7 @@ This was my first game. We started this project with my friend. I learned so muc
 - Menu
 - Sound Manager
 - Level Manager
-- 
+- HUD
 ```
 
 At the end of the project, I learned the following well.  
