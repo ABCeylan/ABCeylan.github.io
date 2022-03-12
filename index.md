@@ -36,7 +36,8 @@ Currently, I am interested in AR-VR world.
 ---
 ## Tower Defense Game
 #### My Project
-![Screenshot (100)](https://user-images.githubusercontent.com/81684850/158016164-512a0a90-dd57-4523-a0ac-b2ac11c1f3c5.png)
+<img src="https://user-images.githubusercontent.com/81684850/158016164-512a0a90-dd57-4523-a0ac-b2ac11c1f3c5.png" width="150" height="280">
+
   
 My very first non-clone game project. I have developed this using Unreal Engine 4 Blueprint system during my internship program. My main goals were understanding UE4 basics and game development process. I have implemented various mechanics that were asked from me and some additional ones that I designed.  
 
