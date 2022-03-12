@@ -57,6 +57,7 @@ I learned the following concepts.
 ```markdown
 - Unity Editor
 - Using OOP in Unity
+- Debugging
 - Masking
 - Animations
 - Canvas UI
