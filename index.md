@@ -37,7 +37,6 @@ title: "ABCeylan"
 This was my first game. We started this project with my <a href="https://fahnucc.github.io/">friend</a> . I learned so much about Unity while creating the Controller game which is a 20 minutes game demo. We handled the whole Unity Editor and code side. Below there are the systems and mechanics that we implemented.  
 
 ```markdown
-- Game Development Pipeline
 - Movement 
 - Enemy Behaviour
 - Teleport 
@@ -55,7 +54,8 @@ This was my first game. We started this project with my <a href="https://fahnucc
 I learned the following concepts.  
 
 ```markdown
-- Unity Editor
+- Unity2D
+- Game Development Pipeline
 - Using OOP in Unity
 - Debugging
 - Masking
