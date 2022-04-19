@@ -28,7 +28,7 @@ title: "ABCeylan"
 </div>
 ---
 ## Ecosystem Simulation
-#### My Project
+#### Hobby Project
 
 We are trying to apply new concepts that we are learning.
 <details>
