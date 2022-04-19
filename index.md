@@ -21,14 +21,24 @@ title: "ABCeylan"
   I started my university life as an Electrical and Electronics Engineering student, and as a result of analyzing my skills and interests more accurately, I go on my way as a Computer Engineering student. My aim is to take firm steps in my career with the experiences I have gained and to take part in meaningful works. 
   <br>
  <br>
-  Below you can see some of the projects I have done so far.
+  Below you can see some of the projects I have done so far and some screenshots from our current project with my friend.
  
   <br>
   <br>
 </div>
+## Ecosystem Simulation
+#### My Project
 
+We are trying to apply new concepts that we are learning.
+<details>
+  <summary>Screenshots</summary> 
 
+<img src="https://user-images.githubusercontent.com/81684850/164103511-75ee3979-73a2-47d8-b9bf-dd6083de54d3.jpeg" width="640" height="360" style="border:10px outset silver;">
 
+<img src="https://user-images.githubusercontent.com/81684850/164103748-263d4b77-2b8d-450e-a5f8-d2e2744fd170.jpeg" width="640" height="360" style="border:10px outset silver;">
+<img src="https://user-images.githubusercontent.com/81684850/164104650-c2efb0e9-ab5d-4016-8b31-df2b5b039823.jpeg" width="640" height="360" style="border:10px outset silver;">
+<img src="https://user-images.githubusercontent.com/81684850/164104667-530062d8-901e-46cc-9170-ca90fb9f3d13.jpeg" width="640" height="360" style="border:10px outset silver;">
+</details>
 ---
 ## 2D Comic Type Platformer Game (Controller)
 #### Freelance
@@ -64,6 +74,10 @@ I learned the following concepts.
 - Prefabs
 - Sound
 ```
+
+<details>
+  <summary>Screenshots</summary>
+  
 <img src="https://user-images.githubusercontent.com/81684850/158018151-fc715d94-7e6d-4088-bd67-71261181ebf6.png" width="640" height="360" style="border:10px outset silver;">
 <br>
 <br>
@@ -107,7 +121,7 @@ I learned the following concepts.
 <br>
 <br>
 <br>
-
+</details>
 
 ---
 ## Tower Defense Game
@@ -145,7 +159,8 @@ I learned the following concepts.
   <br>
   <br>
   <br>
-  
+  <details>
+  <summary>Screenshots</summary>
   <img src="https://user-images.githubusercontent.com/81684850/158018609-8717409b-597a-4f29-ae56-c114c14dff1a.png" width="640" height="360" style="border:10px outset silver;">
   <br>
   <br>
@@ -158,7 +173,7 @@ I learned the following concepts.
   <img src="https://user-images.githubusercontent.com/81684850/158018621-0bc9b772-d1ed-4b21-9daa-c6433a96be7d.png" width="640" height="360" style="border:10px outset silver;">
   <br>
   <br>
-  
+  </details>
 
 
 
