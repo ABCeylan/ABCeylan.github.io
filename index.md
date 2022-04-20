@@ -60,6 +60,7 @@ This was my first game. We started this project with my <a href="https://fahnucc
 - Level Manager
 - HUD
 - Ladder Movement
+- Checkpoint System
 ```
 
 I learned the following concepts.  
