@@ -32,7 +32,7 @@ title: "ABCeylan"
 
 We are trying to apply new concepts that we are learning.
 <details>
-  <summary>Screenshots</summary> 
+  <summary><b>Screenshots</b></summary> 
 
 
 <img src="https://user-images.githubusercontent.com/81684850/164103511-75ee3979-73a2-47d8-b9bf-dd6083de54d3.jpeg" style="border:10px outset silver;">
@@ -84,14 +84,14 @@ I learned the following concepts.
 ```
 
 <details>
-  <summary>Gameplay Video</summary>
+  <summary><b>Gameplay Video</b></summary>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG4yhZKnUNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   </details>
   ---
 <details>
-  <summary>Screenshots</summary>
+  <summary><b>Screenshots</b></summary>
   
 <img src="https://user-images.githubusercontent.com/81684850/158018066-d2a88f5c-76b4-4066-91dd-811b7ddf6131.png" width="640" height="360" style="border:10px outset silver;">
 <br>
@@ -151,7 +151,7 @@ I learned the following concepts.
 ```
  ---
   <details>
-  <summary>Screenshots</summary>
+  <summary><b>Screenshots</b></summary>
   <img src="https://user-images.githubusercontent.com/81684850/158018609-8717409b-597a-4f29-ae56-c114c14dff1a.png" width="640" height="360" style="border:10px outset silver;">
   <br>
   <br>
