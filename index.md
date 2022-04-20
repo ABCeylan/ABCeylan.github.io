@@ -79,12 +79,7 @@ I learned the following concepts.
 <details>
   <summary>Gameplay Videos</summary>
 
- <video src="/asset/img/part1.mp4" controls="controls" style="max-width: 730px;">
-</video>
-  <br>
-<br>
-  <video src="/asset/img/part2.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UEiGucXMBjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   </details>
   ---
