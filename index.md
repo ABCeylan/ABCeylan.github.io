@@ -77,7 +77,7 @@ I learned the following concepts.
 ```
 
 <details>
-  <summary>Screenshots</summary>
+  <summary>Gameplay Videos</summary>
 
  <video src="/asset/img/part1.mp4" controls="controls" style="max-width: 730px;">
 </video>
