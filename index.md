@@ -149,9 +149,7 @@ I learned the following concepts.
 - NavMesh
 - Scriptable Objects
 ```
-  <br>
-  <br>
-  <br>
+ ---
   <details>
   <summary>Screenshots</summary>
   <img src="https://user-images.githubusercontent.com/81684850/158018609-8717409b-597a-4f29-ae56-c114c14dff1a.png" width="640" height="360" style="border:10px outset silver;">
