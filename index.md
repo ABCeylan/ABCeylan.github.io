@@ -150,6 +150,16 @@ I learned the following concepts.
 - Scriptable Objects
 ```
  ---
+ 
+ <details>
+  <summary><b>Gameplay Video</b></summary>
+
+<iframe width="560" height="315" src="https://youtu.be/-O8dGlbY6y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  </details>
+  ---
+ 
+ 
   <details>
   <summary><b>Screenshots</b></summary>
   <img src="https://user-images.githubusercontent.com/81684850/158018609-8717409b-597a-4f29-ae56-c114c14dff1a.png" width="640" height="360" style="border:10px outset silver;">
