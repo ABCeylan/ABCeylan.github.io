@@ -27,21 +27,7 @@ title: "ABCeylan"
   <br>
 </div>
 ---
-## Ecosystem Simulation
-#### Hobby Project
 
-We are trying to apply new concepts that we are learning.
-<details>
-  <summary><b>Screenshots</b></summary> 
-
-
-<img src="https://user-images.githubusercontent.com/81684850/164103511-75ee3979-73a2-47d8-b9bf-dd6083de54d3.jpeg" style="border:10px outset silver;">
-  
-<img src="https://user-images.githubusercontent.com/81684850/164103748-263d4b77-2b8d-450e-a5f8-d2e2744fd170.jpeg" style="border:10px outset silver;">
-  <img src="https://user-images.githubusercontent.com/81684850/164104650-c2efb0e9-ab5d-4016-8b31-df2b5b039823.jpeg" style="border:10px outset silver;">
-  <img src="https://user-images.githubusercontent.com/81684850/164104667-530062d8-901e-46cc-9170-ca90fb9f3d13.jpeg" style="border:10px outset silver;">
-  
-  
   
   
 
