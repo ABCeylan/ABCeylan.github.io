@@ -21,7 +21,7 @@ title: "ABCeylan"
   
   
 
-</details>
+
 ---
 ## 2D Comic Type Platformer Game (Controller)
 #### Freelance
