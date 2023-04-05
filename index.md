@@ -8,19 +8,9 @@ title: "ABCeylan"
 
 # Hello World!
 <div>
-   I am currently junior computer engineering student in Middle East Technical University in Ankara, Turkey. I have been improving myself about game development for about 8 months.
-  <br>
-  <br>
-  <br>
-</div>
+  Hi, I'm [Your Name], a dedicated and versatile game developer with a strong background in computer engineering. I'm proficient in Unity, React, and .NET, and I excel at creating immersive 2D and 3D games, designing responsive front-end interfaces, and developing robust back-end systems. Throughout my academic and professional journey, I've honed my technical and teamwork skills, consistently delivering high-quality projects that showcase my passion for game development. I'm always eager to learn and grow, and I'm committed to making a lasting impact in the gaming industry and providing unforgettable experiences to players worldwide.
+    <br>
 
-
----
-## About Me
-<div>
-  I started my university life as an Electrical and Electronics Engineering student, and as a result of analyzing my skills and interests more accurately, I go on my way as a Computer Engineering student. My aim is to take firm steps in my career with the experiences I have gained and to take part in meaningful works. 
-  <br>
- <br>
   Below you can see some of the projects I have done so far and some screenshots from our current project with my friend.
  
   <br>
